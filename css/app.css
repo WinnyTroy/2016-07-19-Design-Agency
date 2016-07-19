@@ -15,4 +15,14 @@
 #move {
     text-align: center;
     font-size: 65px;
+    margin-top: 1px solid black;
+    margin-bottom: 1px solid black;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+#wd{
+    word-spacing: 40px;
+}
+.callout li{
+    list-style: none;
 }
