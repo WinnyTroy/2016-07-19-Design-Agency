@@ -1,0 +1,14 @@
+#hm {
+    font-family: 'Galada', cursive;
+    font-size: 65px;
+    margin-right: 50px;
+}
+#display {
+    display: inline-block;
+    position: fixed;
+}
+#slide img {
+    margin-top: 70px;
+    width: 100%;
+    height: 480px;
+}
