@@ -8,7 +8,11 @@
     position: fixed;
 }
 #slide img {
-    margin-top: 70px;
+    margin-top: 78px;
     width: 100%;
     height: 480px;
+}
+#move {
+    text-align: center;
+    font-size: 65px;
 }
