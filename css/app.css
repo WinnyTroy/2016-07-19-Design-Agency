@@ -20,9 +20,22 @@
     margin-top: 2px;
     margin-bottom: 2px;
 }
-#wd{
+#wd {
     word-spacing: 40px;
 }
-.callout li{
+.callout li {
     list-style: none;
+}
+#size img {
+    widows: 250px;
+    height: 500px;
+}
+#nice img {
+    width: 350px;
+    height: 250px
+}
+ #size img :hover{
+    background-color: yellow;
+}
+
 }
