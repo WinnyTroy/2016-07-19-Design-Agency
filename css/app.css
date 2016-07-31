@@ -15,8 +15,7 @@
 #move {
     text-align: center;
     font-size: 65px;
-    margin-top: 1px solid black;
-    margin-bottom: 1px solid black;
+    color: burlywood;
 
 }
 #wd {
@@ -38,4 +37,10 @@
 }
 #size{
     margin-bottom: 50px;
+}
+#sell{
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    margin-bottom: 10px;
 }
