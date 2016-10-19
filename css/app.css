@@ -6,7 +6,7 @@
 #display {
     display: inline-block;
     position: fixed;
-    color: crimson;
+    color: black;
 }
 #slide img {
     margin-top: 78px;
@@ -21,12 +21,11 @@
 }
 #wd {
     word-spacing: 40px;
-}
-.list li {
+}.list li {
     list-style: none;
 }
 #size img {
-    widows: 250px;
+    width: 250px;
     height: 500px;
 }
 #nice img {
